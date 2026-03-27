@@ -1,0 +1,2 @@
+model,num_users,num_items,max_len,d_model,n_heads,n_layers,dropout,batch_size,lr,weight_decay,epochs,train_total_sec,test_eval_sec,HR@10,NDCG@10,MRR@10,Recall@10
+benchmark_sasrec_base,138493,26744,200,256,4,4,0.1,256,0.001,1e-05,20,3181.4067042982206,37.503461386077106,0.04438491476103485,0.023999231990777588,0.017827145925316944,0.04438491476103485

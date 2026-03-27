@@ -1,0 +1,2 @@
+model,num_users,num_items,max_len,d_model,n_heads,n_layers,dropout,batch_size,lr,weight_decay,epochs_planned,train_total_sec,test_eval_sec,HR@10,NDCG@10,MRR@10,Recall@10
+sasrec_base_full_positive_u5,138493,26744,200,256,4,4,0.1,256,0.001,1e-05,20,3172.215071653016,36.90406889235601,0.04382892998202075,0.02374515731162952,0.01766952521467188,0.04382892998202075
