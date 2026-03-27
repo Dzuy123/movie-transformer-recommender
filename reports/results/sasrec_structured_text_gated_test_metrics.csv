@@ -1,0 +1,2 @@
+model,num_users,num_items,max_len,d_model,n_heads,n_layers,dropout,batch_size,lr,weight_decay,epochs,train_total_sec,test_eval_sec,HR@10,NDCG@10,MRR@10,Recall@10
+sasrec_structured_text_gated,137474,15405,200,128,4,2,0.2,128,0.0003,1e-05,6,1222.0561882704496,52.201269464567304,0.023524448259307214,0.011793843391914853,0.008261296623823354,0.023524448259307214
