@@ -1,0 +1,2 @@
+model,num_users,num_items,max_len,d_model,n_heads,n_layers,dropout,batch_size,lr_stage1,lr_stage2,weight_decay,epochs_stage1,epochs_stage2,train_total_sec,test_eval_sec,HR@10,NDCG@10,MRR@10,Recall@10
+benchmark_sasrec_hybrid_gated,138493,26744,200,256,4,4,0.1,128,0.0005,0.0001,1e-05,2,200,2373.017162080854,41.58715557679534,0.04429104720094156,0.02406788973422576,0.017944319918065867,0.04429104720094156
